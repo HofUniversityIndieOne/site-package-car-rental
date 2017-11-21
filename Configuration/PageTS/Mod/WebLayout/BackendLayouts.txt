@@ -1,0 +1,4 @@
+#
+# BACKENDLAYOUTS
+#
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:site_package_car_rental/Configuration/PageTS/Mod/WebLayout/BackendLayouts" extensions="txt">
